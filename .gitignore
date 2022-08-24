@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+#logs 
+logs/lms.log
+#ignore config files
+/config/*
+.package-lock.json
+
+#public folder
+/src/public
